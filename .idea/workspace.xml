@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="556a960f-2a9b-47dc-9c97-2b818b2ab673" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Compontents/Layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Compontents/ListPosts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Compontents/UpdatePost.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/dbConnect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/mongodb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/Post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/auth/[...nextauth].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/auth/signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/post/[_id].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/post/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/post/postid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/token.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/playroute/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/playroute/routeone/[routetwo]/[routethree]/[routefour].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/playroute/routeone/[routetwo]/[routethree]/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/playroute/routeone/[routetwo]/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/playroute/routeone/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/testauth/addposts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/testauth/blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/testauth/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/testauth/dashbored.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/testauth/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/testauth/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/testauth/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/testauth/post/[_id].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/testauth/post/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/testauth/postuser/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/Layout.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/Utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/Home.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2JdzDuEGNGRuks2yABMcY49J0e9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../withouttypescript" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\Learn-React-important\LernNext\auth-next\pages\testauth\postuser" />
+      <recent name="E:\Project\Learn-React-important\LernNext\auth-next\pages\testauth\post" />
+      <recent name="E:\Project\Learn-React-important\LernNext\auth-next\pages\api\auth" />
+      <recent name="E:\Project\Learn-React-important\LernNext\auth-next\pages\api" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="556a960f-2a9b-47dc-9c97-2b818b2ab673" name="Changes" comment="" />
+      <created>1672422636852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672422636852</updated>
+      <workItem from="1672422639170" duration="42000" />
+      <workItem from="1672433502715" duration="121000" />
+      <workItem from="1672476998937" duration="656000" />
+      <workItem from="1672477847583" duration="118481000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
